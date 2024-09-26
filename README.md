@@ -16,17 +16,17 @@ We conducted a t-test to compare the stress levels of students with jobs to thos
 
 Throughout the project, we employed the following methods and tools:
 
-- **Statistical Tests**: 📊
+📊 **Statistical Tests**:
   - T-tests, normality tests, Shapiro-Wilk, and Kolmogorov-Smirnov tests.
   
-- **Hypothesis Testing**: 👨🏻‍🔬
+👨🏻‍🔬 **Hypothesis Testing**: 
   - Testing relationships between variables such as employment status and stress levels.
   
-- **Correlation Analysis**: 📈
+📈 **Correlation Analysis**: 
   - Investigated relationships between various features in the dataset.
 
-- **Model Training and Evaluation**: 👩🏻‍💻
+💻 **Model Training and Evaluation**: 
   - Implemented machine learning algorithms such as 'XGBoost', 'Gradient Boosting', and 'K-Nearest Neighbors (KNN)'.
 
-- **SHAP Analysis**: 📝
+📝 **SHAP Analysis**: 
   - Used SHAP (SHapley Additive exPlanations) to explain feature importance.
